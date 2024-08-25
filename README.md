@@ -1,10 +1,7 @@
-# CCTP Sample App
+#Chainwave CCTP Testnet app trial 1
 
 A sample app used to demonstrate CCTP step by step capabilities on testnet. The app currently supports Ethereum Sepolia, Avalanche Fuji C-Chain, and Arbitrum Sepolia testnets.
 
-![](./docs/screenshot.png)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Setup
 
